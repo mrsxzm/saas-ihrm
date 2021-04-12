@@ -36,6 +36,7 @@ public class UserService {
         user.setPassword("123456");//设置初始密码
         user.setEnableState(1);
         user.setId(id);
+        System.out.println("555");
         //调用dao保存部门
         userDao.save(user);
     }
