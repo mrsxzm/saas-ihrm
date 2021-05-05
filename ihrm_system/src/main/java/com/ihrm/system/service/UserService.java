@@ -31,6 +31,7 @@ public class UserService {
      * 1.保存用户
      */
     public void save(User user) {
+        System.out.println("dev1编辑");
         //设置主键的值
         String id = idWorker.nextId()+"";
         user.setPassword("123456");//设置初始密码
