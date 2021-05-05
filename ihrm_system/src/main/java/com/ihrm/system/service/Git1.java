@@ -24,5 +24,7 @@ public class Git1 {
         System.out.println("55ee5222");
         System.out.println("dev编辑11");
         System.out.println("dev编辑11111");
+
+        System.out.println("dev编辑v_1.0");
     }
 }
