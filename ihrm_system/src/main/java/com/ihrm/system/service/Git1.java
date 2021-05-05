@@ -28,5 +28,7 @@ public class Git1 {
         System.out.println("dev编辑v_1.0");
 
         System.out.println("dev1编辑v_1.0");
+        System.out.println("dev1编辑v_1.022345345");
+
     }
 }
